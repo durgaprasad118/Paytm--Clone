@@ -2,34 +2,29 @@
 
 ![clone](https://img.shields.io/badge/Clone-Project-red)![2](https://img.shields.io/badge/Technologies-HTML%2FCSS%2FTailwind-blue)![3](https://img.shields.io/badge/Multi%20Device-Responsive-green)
 
-
 ---
 
 ## Live Link
+
 [Paytm-Clone](https://paytm-ui-clone-dp.netlify.app/)
 
 ## Preview
+
 ![Paytm](./Images/Paytm%20view.png)
 
-
 ## Project Description and Learnings
- This is a responsive paytm UI clone made by using HTML and  Tailwind CSS .Hope you like it. 
 
+This is a responsive paytm UI clone made by using HTML and Tailwind CSS .Hope you like it.
 
- Learned about how to make  responsive and breakpoints.
+Learned about how to make responsive and breakpoints.
 
+## Time Taken
 
- ## Live Demo
- [Live link](https://paytm-ui-clone-dp.netlify.app/)
+It took me about 15 hours to complete this project
 
+## Feedback
 
- ## Time Taken
- It took me about 15 hours to complete this project
-
-
- ## Feedback
 If you have any feedback, please reach me at
-
 
 [durgaprasadachana1108@gmail.com](mailto:durgaprasadachana1108@gmail.com)
 
