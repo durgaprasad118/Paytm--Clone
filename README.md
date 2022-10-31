@@ -6,7 +6,7 @@
 
 ## Live Link
 
-[Paytm-Clone](https://paytm-ui-clone-dp1108.netlify.app/)
+[Paytm-Clone](https://paytmui-clone-dp1108.netlify.app/)
 
 ## Preview
 
